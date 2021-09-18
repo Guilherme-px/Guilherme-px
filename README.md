@@ -13,6 +13,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gui-NODE" heigth="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gui-NODE" heigth="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gui-NODE" heigth="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gui-Postgres" heigth="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gui-Mongo" heigth="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gui-Web-Pack" heigth="30" width="40" src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor">
 </div>

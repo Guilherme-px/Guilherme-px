@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gui-VUE" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gui-REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gui-NODE" heigth="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">

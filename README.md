@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/Guilherme-px">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme-px&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-vercel-sigma-five.app/api/top-langs/?username=Guilherme-px&layout=compact&langs_count=7&theme=react"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme-px&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">

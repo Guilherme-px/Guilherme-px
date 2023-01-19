@@ -1,4 +1,4 @@
-[Read this page in English](https://github.com/Guilherme-px/Guilherme-px/blob/main/README-pt.md)
+[Read this page in English](https://github.com/Guilherme-px)
 ### Olá!! meu nome é Guilherme Augusto.
 #### Sou um desenvolvedor fullstack nivel júnior.
 

@@ -1,4 +1,4 @@
-[Leia esta página em português](http....README-pt.md)
+[Leia esta página em português](https://github.com/Guilherme-px/Guilherme-px/blob/main/README-pt.md)
 ### Hi!! my name is Guilherme Augusto.
 #### I´m a junior fullstack developer.
 

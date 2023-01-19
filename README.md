@@ -23,4 +23,4 @@
   <img align="center" alt="Gui-Docker" heigth="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
 </div>
 
-![snake gif](https://github.com/Guilherme-px/Guilherme-px/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Guilherme-px/Guilherme-px/blob/output/github-contribution-grid-snake.svg)

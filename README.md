@@ -1,4 +1,6 @@
+[Leia esta página em português](http....README-pt.md)
 ### Hi!! my name is Guilherme Augusto.
+#### I´m a junior fullstack developer.
 
 ##
 

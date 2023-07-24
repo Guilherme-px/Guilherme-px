@@ -1,6 +1,6 @@
 [Read this page in English](https://github.com/Guilherme-px)
 ### Olá!! meu nome é Guilherme Augusto.
-#### Sou um desenvolvedor fullstack nivel júnior.
+#### Sou um desenvolvedor fullstack.
 
 ##
 
@@ -21,14 +21,14 @@
   <img align="center" alt="Gui-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Gui-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Gui-Epress" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="Gui-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Gui-.Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Gui-Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Gui-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Gui-Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Gui-Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <br>
   <h2>Tecnologias que estou aprendendo ou me aperfeiçoando</h2>
-  <img align="center" alt="Gui-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Gui-.Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Gui-AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Gui-SERVERLESS" src="https://img.shields.io/badge/serverless-CC2927?style=for-the-badge&logo=serverless&logoColor=white">
   <img align="center" alt="Gui-JEST" src="https://img.shields.io/badge/jest-C63D14?style=for-the-badge&logo=jest&logoColor=white">

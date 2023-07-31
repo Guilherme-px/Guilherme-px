@@ -37,4 +37,4 @@
   <img align="center" alt="Gui-KUBERNETES" src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
 
-![snake gif](https://github.com/Guilherme-px/Guilherme-px/blob/output/github-contribution-grid-snake.svg)
+<!---![snake gif](https://github.com/Guilherme-px/Guilherme-px/blob/output/github-contribution-grid-snake.svg)-->

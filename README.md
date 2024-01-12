@@ -1,6 +1,6 @@
 [Leia esta página em português](https://github.com/Guilherme-px/Guilherme-px/blob/main/README-pt.md)
 ### Hi!! my name is Guilherme Augusto.
-#### I´m a fullstack developer.
+#### I´m a web developer.
 
 ##
 

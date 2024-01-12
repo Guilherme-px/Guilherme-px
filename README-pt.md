@@ -1,6 +1,6 @@
 [Read this page in English](https://github.com/Guilherme-px)
 ### Olá!! meu nome é Guilherme Augusto.
-#### Sou um desenvolvedor fullstack.
+#### Sou um desenvolvedor web.
 
 ##
 

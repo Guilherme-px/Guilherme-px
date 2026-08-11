@@ -26,10 +26,4 @@ Trabalho principalmente com **TypeScript, Node.js, Vue, React, C# e .NET**, com 
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jest,cypress" />
 </p>
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-px/Guilherme-px/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-px/Guilherme-px/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Guilherme-px/Guilherme-px/output/github-snake.svg" alt="GitHub contribution snake">
-  </picture>
-</div>
+![snake](https://raw.githubusercontent.com/Guilherme-px/Guilherme-px/output/snake-purple.svg)

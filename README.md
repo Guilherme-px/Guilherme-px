@@ -59,7 +59,7 @@ I mainly work with **TypeScript, Node.js, Vue, React, C# and .NET**, with experi
 
 ### 🤝 Let's Build Something Together
 
-[![Outlook](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.gonvs@gmail.com)
+[![Outlook](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.s.goncalves@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-augusto-da-silva)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-px)
 

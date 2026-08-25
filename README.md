@@ -43,9 +43,9 @@ I mainly work with **TypeScript, Node.js, Vue, React, C# and .NET**, with experi
 <img src="https://github-stats-extended.vercel.app/api?username=Guilherme-px&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <!-- <img src="https://streak-stats.demolab.com/?user=Guilherme-px&theme=tokyonight&hide_border=true" width="48%" /> -->
 
-<br>
+<!-- <br> -->
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-px&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-px&layout=compact&theme=tokyonight&hide_border=true" width="36.5%" />
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-px&theme=tokyo-night&hide_border=true" width="48%" /> -->
 </div>
 
